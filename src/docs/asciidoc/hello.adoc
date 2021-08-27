@@ -1,0 +1,1 @@
+operation::hello[snippets='curl-request,http-request,http-response']

@@ -1,0 +1,10 @@
+= Hello API Document
+:doctype: book
+:source-highlighter: highlightjs
+:toc: left
+:toclevels: 2
+:sectlinks:
+
+[[Hello]]
+== Hello API
+include::hello.adoc[]
